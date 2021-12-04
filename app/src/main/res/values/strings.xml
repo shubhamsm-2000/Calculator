@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="ac">AC</string>
+    <string name="backspace">⌫</string>
+    <string name="br1">(</string>
+    <string name="br2">)</string>
+
+    <string name="sin">sin(</string>
+    <string name="cos">cos(</string>
+    <string name="tan">tan(</string>
+    <string name="log">log(</string>
+    <string name="ln">ln(</string>
+
+    <string name="fact">x!</string>
+    <string name="sq">x²</string>
+    <string name="sqrt">√</string>
+    <string name="inv">1/x</string>
+    <string name="div">÷</string>
+
+    <string name="s0">0</string>
+    <string name="s1">1</string>
+    <string name="s2">2</string>
+    <string name="s3">3</string>
+    <string name="s4">4</string>
+    <string name="s5">5</string>
+    <string name="s6">6</string>
+    <string name="s7">7</string>
+    <string name="s8">8</string>
+    <string name="s9">9</string>
+
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+
+    <string name="sum">+</string>
+    <string name="multi">x</string>
+    <string name="min">-</string>
+    <string name="piTodisplay">π</string>
+    <string name="piUpdate">πx</string>
+    <string name="piVal">π</string>
+
+    <string name="sinButton">sin</string>
+    <string name="cosButton">cos</string>
+    <string name="tanButton">tan</string>
+    <string name="logButton">log</string>
+    <string name="lnButton">ln</string>
+
+    <string name="toast">Maximum number of digits(20) exceeded.</string>
+    <string name="textViewHint">Enter a Value</string>
+    <string name="toastforBracket">First, Enter a Value</string>
+    <string name="toastInvalid">Invalid Format Used</string>
+    <string name="somethingwentwrong">Something Went Wrong</string>
+
+
+</resources>
